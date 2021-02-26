@@ -1,0 +1,37 @@
+#title{
+	color: #000000; /*estilizando titulo principal*/
+}
+
+body {
+	background: #bf8040;  /*estlizando corpo da pagina*/
+}
+
+.larger-image {
+    width: 50px; /*definindo tamanho da primeira imagen*/
+    height: 50px;
+}
+p{
+	text-align: justify;
+}
+.fot-link{
+
+	width: 400px; /*definindo tamanho da segunda imagem*/
+
+}
+.subtitle{
+	color: blue; /*estilizando sub-titulo*/
+}
+.post_title{
+	color: #000000; /*estilizando h3*/
+}
+.post{
+	background: #ecd9c6;/*adicionando cor ao fundo do texto*/
+	padding: 100px;
+	border: 10px;
+	border: solid; 
+	margin: 1px;
+	border-radius: 10%;
+}
+footer{
+	background-color: #604020;
+}
